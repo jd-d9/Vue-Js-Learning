@@ -1,0 +1,10 @@
+1) DOM.
+2) Virtual DOM and it's work.
+3) What is Widgets approach? ==========> use in multi-page app so, didn't need it.
+4) Can we use v-if/v-for in same tag and why we use key attribute?
+5) vue reactivity.
+6) Why we building complex ui with multiple components?
+7) please know me difference between slots and scoped slot.
+8) please explaine this one question v-model/input.value.
+9) Benefit of using vue/cli.
+10) Data flow between component and What is one-way data/two-way bindings?
